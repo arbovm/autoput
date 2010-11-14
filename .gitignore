@@ -1,2 +1,10 @@
-test
 .autoput.yml
+.bundle
+.DS_Store
+.yardoc
+coverage
+doc
+pkg
+rdoc
+*.tmproj
+tmtags
