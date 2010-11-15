@@ -1,6 +1,6 @@
-require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
+require 'spec_helper'
 
-describe "Testspec for Autoput" do
+describe Autoput do
   
   it "should be pending" do
     pending

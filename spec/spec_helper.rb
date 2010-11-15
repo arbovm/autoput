@@ -20,5 +20,4 @@ require 'rspec/autorun'
 Dir["#{File.dirname(__FILE__)}/support/**/*.rb"].each {|f| require f}
 
 RSpec.configure do |config|
-  # config.requires = ['autoput/frameworks/rspec2']
 end
